@@ -10,7 +10,7 @@ This repo helps you extract subtitles from **YouTube videos** and generate an **
 
 ## 🧪 How to Use (Colab)
 
-[👉 Open in Google Colab](https://colab.research.google.com/github/YOUR_USERNAME/youtube-to-srt-whisper/blob/main/youtube_to_srt_colab.ipynb)
+[👉 Open in Google Colab](https://colab.research.google.com/github/anas-zaneproed/youtube-to-srt-whisper/blob/main/youtube_to_srt_colab.ipynb)
 
 1. Paste your YouTube video link
 2. It downloads the audio
